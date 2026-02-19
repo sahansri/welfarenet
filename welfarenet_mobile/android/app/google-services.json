@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687939010057",
+    "project_id": "welfarenet-56fa4",
+    "storage_bucket": "welfarenet-56fa4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687939010057:android:1ff48432b3baa86011c2d8",
+        "android_client_info": {
+          "package_name": "com.example.welfarenet_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNp6fDFy-NWxyn9xzb1S0JozFnbXQOBDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
